@@ -1,5 +1,5 @@
 # 381k_project
-Code to simulate a hierarchy of experts for task completion
+Code to simulate a hierarchy of experts for task completion. Run using python3. 
 
 Variables of interest:
 
